@@ -56,3 +56,7 @@ while True:
         opciones[opcion]()
     else:
         print("Opción inválida. Por favor, selecciona una opción válida.")
+
+#Hola mundo
+
+Hola=print("Que onda sapa hpta")
